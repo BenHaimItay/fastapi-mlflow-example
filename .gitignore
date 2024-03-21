@@ -1,0 +1,9 @@
+# Specify files and folders to ignore in git
+__pycache__/
+*.pyc
+*.pyo
+*.env
+
+mlruns/
+mlartifacts/
+.venv/
